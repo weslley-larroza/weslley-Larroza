@@ -40,7 +40,7 @@ Apaixonado por tecnologia, gosto de criar soluções que unem **infraestrutura, 
 ---
 
 ## 📫 Contato
-- 💼 [LinkedIn](https://www.linkedin.com/in/weslley-ti-sc)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/weslley-larroza)  
 - 📧 E-mail: **weslleylarroza@outlook.com**  
 
 ---
