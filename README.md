@@ -1,13 +1,13 @@
 # 👋 Olá, eu sou o Weslley Larroza Medeiros!
 
-Sou **Assistente de TI** e estudante de **Análise e Desenvolvimento de Sistemas**, atualmente em transição para a área de **Desenvolvimento de Software**.  
+Sou **Assistente de TI** e estudante de **Análise e Desenvolvimento de Sistemas**.  
 Apaixonado por tecnologia, gosto de criar soluções que unem **infraestrutura, automação e desenvolvimento**, sempre buscando aprendizado constante e boas práticas.
 
 ---
 
 ## 🚀 Sobre mim
 - 🎓 Cursando **ADS** com foco em desenvolvimento de sistemas.  
-- 💼 Atualmente atuo na área de **Infraestrutura de TI**, suporte e automações internas.  
+- 💼 Atualmente atuo na área de **Infraestrutura de TI**, suporte.  
 - 🛠️ Em paralelo, desenvolvo **projetos práticos** em:
   - **Python** → automações, bots educacionais e integrações.  
   - **Flutter** → aplicativos móveis com envio em segundo plano, filas e reenvio automático.  
@@ -21,7 +21,7 @@ Apaixonado por tecnologia, gosto de criar soluções que unem **infraestrutura, 
 - **Desenvolvimento Mobile com Flutter** (envio em segundo plano, organização de fotos e pedidos).  
 - **Banco de Dados** (SQL Server, consultas otimizadas, relatórios).  
 - **Infraestrutura de TI** (RDP, redes, servidores, monitoramento).  
-- **Boas práticas de UI/UX** em projetos acadêmicos (Design Thinking, Heurísticas de Nielsen, Material Design).  
+- **Boas práticas de UI/UX** aplicadas em projetos acadêmicos, com foco em experiência do usuário e design intuitivo..  
 
 ---
 
