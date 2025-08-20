@@ -28,7 +28,7 @@ Apaixonado por tecnologia, gosto de criar soluções que unem **infraestrutura, 
 
 ## ⚙️ Linguagens e Ferramentas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flutter,dart,sqlite,mysql,git,github,html,css,js,vscode,pycharm,androidstudio,ubuntu,windows,typescript" />
+  <img src="https://skillicons.dev/icons?i=python,flutter,dart,sqlite,mysql,git,github,html,css,js,vscode,pycharm,androidstudio,ubuntu,typescript" />
 </p>
 
 ---
