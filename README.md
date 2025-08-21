@@ -52,7 +52,7 @@ Apaixonado por tecnologia, gosto de criar soluções que unem infraestrutura, au
 ---
 
 <h1>📫 Contato</h1>
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/weslley-larroza" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
