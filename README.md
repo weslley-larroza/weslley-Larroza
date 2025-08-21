@@ -1,10 +1,11 @@
-### Goodnight World !!
+<h1 align="left"> Goodnight World !!</h1>
 
 ---
-<h6 style="text-aling: center;">
-Sou **Assistente de TI** e estudante de **Análise e Desenvolvimento de Sistemas**.  
-Apaixonado por tecnologia, gosto de criar soluções que unem **infraestrutura, automação e desenvolvimento**, sempre buscando aprendizado constante e boas práticas.
-</h6>
+
+<p align="left">
+Sou Assistente de TI e estudante de <b>Análise e Desenvolvimento de Sistemas</b>.  
+Apaixonado por tecnologia, gosto de criar soluções que unem infraestrutura, automação e desenvolvimento, sempre buscando aprendizado constante e boas práticas.
+</p>
 
 ---
 
@@ -24,26 +25,36 @@ Apaixonado por tecnologia, gosto de criar soluções que unem **infraestrutura, 
 - **Desenvolvimento Mobile com Flutter** (envio em segundo plano, organização de fotos e pedidos).  
 - **Banco de Dados** (SQL Server, consultas otimizadas, relatórios).  
 - **Infraestrutura de TI** (RDP, redes, servidores, monitoramento).  
-- **Boas práticas de UI/UX** aplicadas em projetos acadêmicos, com foco em experiência do usuário e design intuitivo..  
+- **Boas práticas de UI/UX** aplicadas em projetos acadêmicos.  
 
 ---
 
 ## ⚙️ Linguagens e Ferramentas
-<p align="left">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=python,flutter,dart,sqlite,mysql,git,github,html,css,js,vscode,pycharm,androidstudio,ubuntu,typescript" />
-</p>
+</div>
 
 ---
 
-## GitHub Stats
-![Weslley's GitHub stats](https://github-readme-stats.vercel.app/api?username=weslley-larroza&show_icons=true&theme=tokyonight)  
+## 📊 GitHub Stats
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weslley-larroza&layout=compact&theme=tokyonight)
+| ![Weslley's GitHub stats](https://github-readme-stats.vercel.app/api?username=weslley-larroza&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weslley-larroza&layout=compact&theme=tokyonight) |
+|---|---|
+
+</div>
+
 
 ---
 
 ## 📫 Contato
-- 💼 [LinkedIn](https://www.linkedin.com/in/weslley-larroza)  
-- 📧 E-mail: **weslleylarroza@outlook.com**  
+<div align="left">
+  <a href="https://www.linkedin.com/in/weslley-larroza" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:weslleylarroza@outlook.com">
+    <img src="https://img.shields.io/badge/-Outlook-%230072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  </a>
+</div>
 
 ---
