@@ -26,7 +26,7 @@ Apaixonado por tecnologia, gosto de criar soluções que unem infraestrutura, au
 <h1>🧩 Especialidades</h1>
 <h6>
 - <b>Automação em Python</b> (Tkinter, PyAutoGUI, integração com APIs, manipulação de arquivos).<br>
-- <b>Desenvolvimento Mobile com Flutter</b> (envio em segundo plano, organização de fotos e pedidos).<br>
+- <b>Desenvolvimento Mobile com Flutter</b>.<br>
 - <b>Banco de Dados</b> (SQL Server, consultas otimizadas, relatórios).<br>
 - <b>Infraestrutura de TI</b> (RDP, redes, servidores, monitoramento).<br>
 - <b>Boas práticas de UI/UX</b> aplicadas em projetos acadêmicos.<br>
