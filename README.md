@@ -57,9 +57,6 @@ Apaixonado por tecnologia, gosto de criar soluções que unem infraestrutura, au
       <td>
         <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=weslley-larroza&layout=compact&theme=tokyonight" />
       </td>
-      <td>
-        <img src="https://metrics.lecoq.io/weslley-larroza?template=classic&config.timezone=America/Sao_Paulo" alt="GitHub Metrics" />
-      </td>
     </tr>
   </table>
 </div>
