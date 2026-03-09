@@ -52,10 +52,10 @@ Apaixonado por tecnologia, gosto de criar soluções que unem infraestrutura, au
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weslley-larroza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+        <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=weslley-larroza&show_icons=true&theme=tokyonight" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslley-larroza&layout=compact&theme=tokyonight" />
+        <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=weslley-larroza&layout=compact&theme=tokyonight" />
       </td>
     </tr>
   </table>
