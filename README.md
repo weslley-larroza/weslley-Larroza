@@ -61,6 +61,22 @@ Apaixonado por tecnologia, gosto de criar soluções que unem infraestrutura, au
   </table>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/weslley-larroza/weslley-larroza/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+  <br><br>
+
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=weslley-larroza&show_icons=true&theme=tokyonight" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=weslley-larroza&layout=compact&theme=tokyonight" />
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 <h1>📫 Contato</h1>
