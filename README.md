@@ -50,8 +50,7 @@ Apaixonado por tecnologia, gosto de criar soluções que unem infraestrutura, au
 
 <div align="center">
 
-| ![Weslley's GitHub stats](https://github-readme-stats.vercel.app/api?username=weslley-larroza&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weslley-larroza&layout=compact&theme=tokyonight) |
-|---|---|
+
 
 </div>
 
