@@ -1,31 +1,38 @@
-name: Generate Contributions Animation
+name: generate animation
 
 on:
+  # executa automaticamente a cada 24 horas
   schedule:
-    - cron: "* */12 * * *"  # executa a cada 12 horas
-  workflow_dispatch:         # permite execução manual
-
+    - cron: "0 */24 * * *" 
+  
+  # permite executar manualmente a qualquer momento
+  workflow_dispatch:
+  
+  # executa a cada push na branch main
+  push:
+    branches:
+    - main
+    
 jobs:
-  build:
-    name: Generate Snake Animation
+  generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
-
+    timeout-minutes: 5
+    
     steps:
-      # Passo 1: Checa o repositório
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      # Passo 2: Gera animação do gráfico de contribuições
-      - name: Generate Snake GIF
-        uses: Platane/snk@master
-        id: snake-gif
+      # gera os arquivos SVG da cobrinha (um para cada tema)
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: weslley-larroza
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      # Passo 3: Publica no branch 'output'
-      - name: Publish to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v2.1.3
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          
+      # envia o conteúdo de 'dist' para a branch 'output'
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
