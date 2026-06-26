@@ -44,8 +44,6 @@ Apaixonado por tecnologia, gosto de criar soluções que unem infraestrutura, au
 <h1>📊 GitHub Stats</h1>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=weslley-larroza&theme=tokyonight&no-bg=true" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=weslley-larroza&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
