@@ -3,21 +3,21 @@
 ---
 
 <h6>
-Sou Assistente de TI e graduado em <b>Análise e Desenvolvimento de Sistemas</b>.  
-Apaixonado por tecnologia, crio soluções que unem infraestrutura, automação e desenvolvimento full stack, buscando sempre aprendizado constante e boas práticas.
+Sou Assistente de TI e estudante de <b>Análise e Desenvolvimento de Sistemas</b>.  
+Apaixonado por tecnologia, gosto de criar soluções que unem infraestrutura, automação e desenvolvimento, sempre buscando aprendizado constante e boas práticas.
 </h6>
 
 ---
 
 <h1>🚀 Sobre mim</h1>
 <h6>
-🎓 Graduado em <b>ADS</b> com foco em desenvolvimento de sistemas.<br>
-💼 Atuo na área de <b>Infraestrutura de TI e Desenvolvimento</b>.<br>
-🛠️ Desenvolvo <b>projetos práticos</b> corporativos e pessoais em:<br>
-&nbsp;&nbsp;&nbsp;• <b>C# & Python</b> → APIs REST, automações e integrações de sistemas.<br>
-&nbsp;&nbsp;&nbsp;• <b>Flutter</b> → aplicativos móveis com gerenciamento de estado, filas e reenvio automático.<br>
-&nbsp;&nbsp;&nbsp;• <b>SQL Server</b> → consultas otimizadas, relatórios e integrações para plataformas internas.<br>
-🌍 Interesse em expandir na área de <b>Desenvolvimento Full Stack</b> e <b>DevOps</b>.
+🎓 Cursando <b>ADS</b> com foco em desenvolvimento de sistemas.<br>
+💼 Atualmente atuo na área de <b>Infraestrutura de TI</b>, suporte.<br>
+🛠️ Em paralelo, desenvolvo <b>projetos práticos</b> em:<br>
+&nbsp;&nbsp;&nbsp;• <b>Python</b> → automações, bots educacionais e integrações.<br>
+&nbsp;&nbsp;&nbsp;• <b>Flutter</b> → aplicativos móveis com envio em segundo plano, filas e reenvio automático.<br>
+&nbsp;&nbsp;&nbsp;• <b>SQL Server</b> → consultas, relatórios e integrações para sistemas internos.<br>
+🌍 Interesse em <b>Desenvolvimento Full Stack</b> e <b>DevOps</b>.
 </h6>
 
 
@@ -25,18 +25,18 @@ Apaixonado por tecnologia, crio soluções que unem infraestrutura, automação 
 
 <h1>🧩 Especialidades</h1>
 <h6>
-- <b>Desenvolvimento Back-end & APIs</b> (C#, Python / FastAPI, Flask).<br>
-- <b>Automação de Processos e Integrações</b>.<br>
+- <b>Automação em Python</b> (Tkinter, PyAutoGUI, integração com APIs, manipulação de arquivos).<br>
 - <b>Desenvolvimento Mobile com Flutter</b>.<br>
-- <b>Banco de Dados & SQL</b> (SQL Server, SQLite, consultas otimizadas).<br>
-- <b>Infraestrutura de TI & Redes</b> (suporte, administração e monitoramento).<br>
+- <b>Banco de Dados</b> (SQL Server, consultas otimizadas, relatórios).<br>
+- <b>Infraestrutura de TI</b> (RDP, redes, servidores, monitoramento).<br>
+- <b>Boas práticas de UI/UX</b> aplicadas em projetos acadêmicos.<br>
 </h6>
 
 ---
 
 <h1>⚙️ Linguagens e Ferramentas</h1>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,flutter,dart,sqlite,mssql,git,github,html,css,js,vscode,pycharm,androidstudio,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=python,flutter,dart,sqlite,mysql,git,github,html,css,js,vscode,pycharm,androidstudio,ubuntu,typescript" />
 </div>
 
 ---
@@ -64,5 +64,5 @@ Apaixonado por tecnologia, crio soluções que unem infraestrutura, automação 
 <div align="left">
   <a href="https://www.linkedin.com/in/weslley-larroza" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
 </div>
+
