@@ -43,13 +43,15 @@ Apaixonado por tecnologia, crio soluções que unem infraestrutura, automação 
 
 <h1>📊 GitHub Stats</h1>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=weslley-larroza&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=weslley-larroza&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
   <table border="0">
     <tr>
-
+      <td>
+        <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=weslley-larroza&show_icons=true&theme=tokyonight&hide_border=true" />
+      </td>
       <td>
         <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=weslley-larroza&layout=compact&theme=tokyonight&hide_border=true" />
       </td>
