@@ -36,7 +36,7 @@ Apaixonado por tecnologia, crio soluções que unem infraestrutura, automação 
 
 <h1>⚙️ Linguagens e Ferramentas</h1>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,flutter,dart,sqlite,mssql,git,github,html,css,js,vscode,pycharm,androidstudio,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,flutter,dart,sqlite,mysql,git,github,html,css,js,vscode,pycharm,androidstudio,ubuntu" />
 </div>
 
 ---
@@ -49,9 +49,7 @@ Apaixonado por tecnologia, crio soluções que unem infraestrutura, automação 
 <div align="center">
   <table border="0">
     <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=weslley-larroza&show_icons=true&theme=tokyonight&hide_border=true" />
-      </td>
+
       <td>
         <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=weslley-larroza&layout=compact&theme=tokyonight&hide_border=true" />
       </td>
