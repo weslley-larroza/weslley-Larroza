@@ -3,8 +3,7 @@
 ---
 
 <h6>
-Sou Assistente de TI e graduado em <b>Análise e Desenvolvimento de Sistemas</b>.  
-Apaixonado por tecnologia, crio soluções que unem infraestrutura, automação e desenvolvimento full stack, buscando sempre aprendizado constante e boas práticas.
+Graduado em Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia. Desenvolvo soluções que unem automação, infraestrutura e desenvolvimento full stack, buscando sempre aprendizado constante e boas práticas.
 </h6>
 
 ---
